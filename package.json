@@ -1,0 +1,19 @@
+{
+  "name": "new-empty-typescript-project",
+  "version": "1.0.0",
+  "description": "New empty TypeScript project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tikrimi/new-empty-typescript-project.git"
+  },
+  "author": "tikrimi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tikrimi/new-empty-typescript-project/issues"
+  },
+  "homepage": "https://github.com/tikrimi/new-empty-typescript-project#readme"
+}
