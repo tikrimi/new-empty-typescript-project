@@ -1,5 +1,5 @@
 # New empty TypeScript project
-You need to start a new TypeScript project... just clone that repository or use as template.
+You need to start a new TypeScript project... just clone that repository or use it as template.
 
 But you can also do it by yourself:
 
