@@ -33,7 +33,7 @@ Modify the `package.json` file by adding build and start scripts:
   }
 ```
 
-It now possible to launch the build with `npm run build`and build then start the program with `npm run start`.
+It's now possible to launch the build with `npm run build` and build then start the program with `npm run start`.
 
 ### Add test framework (Jest)
 
