@@ -34,3 +34,22 @@ Modify the `package.json` file by adding build and start scripts:
 ```
 
 It now possible to launch the build with `npm run build`and build then start the program with `npm run start`.
+
+### Add test framework (Jest)
+
+Following commands will install and configure the Javascript test framework `Jest`, and the TypeScript preprocessor `ts-jest`
+
+```
+npm i --save-dev jest ts-jest @types/jest
+npx ts-jest config:init
+```
+
+Modify the `package.json`file in order to add the `test`command:
+
+```
+"scripts": {
+    "build": "tsc",
+    "start": "npm run build && node build/index.js",
+    "test": "jest"
+  }
+```
